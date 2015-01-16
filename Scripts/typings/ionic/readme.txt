@@ -1,0 +1,1 @@
+﻿source: https://github.com/danibo86/ionic-typescript-definitions
